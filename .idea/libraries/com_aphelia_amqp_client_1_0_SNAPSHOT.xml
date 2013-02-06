@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="com.aphelia_amqp-client_1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.aphelia/amqp-client/jars/amqp-client-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.aphelia/amqp-client/srcs/amqp-client-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

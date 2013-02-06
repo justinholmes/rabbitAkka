@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="org.apache.geronimo.specs_geronimo-servlet_2.5_spec_1.1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/jars/geronimo-servlet_2.5_spec-1.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/docs/geronimo-servlet_2.5_spec-1.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.geronimo.specs/geronimo-servlet_2.5_spec/srcs/geronimo-servlet_2.5_spec-1.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

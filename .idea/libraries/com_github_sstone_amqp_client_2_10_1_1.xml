@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="com.github.sstone_amqp-client_2.10_1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.github.sstone/amqp-client_2.10/jars/amqp-client_2.10-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.github.sstone/amqp-client_2.10/docs/amqp-client_2.10-1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.github.sstone/amqp-client_2.10/srcs/amqp-client_2.10-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0mRunning RabbitMQAkka [0m
+[0m[[0mdebug[0m] [0mStarting sandboxed run...[0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/Users/justinholmes/work/test/akka-project-in-scala/target/scala-2.10/classes[0m
+[0m[[0mdebug[0m] [0m	/Users/justinholmes/.sbt/boot/scala-2.10.0/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/justinholmes/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/bundles/akka-actor_2.10-2.1.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/justinholmes/.ivy2/cache/com.typesafe/config/bundles/config-1.0.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/justinholmes/.ivy2/cache/com.github.sstone/amqp-client_2.10/jars/amqp-client_2.10-1.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/justinholmes/.ivy2/cache/com.rabbitmq/amqp-client/jars/amqp-client-3.0.1.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main to exit[0m
+[0m[[0mdebug[0m] [0m	Thread run-main exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread mySystem-akka.actor.default-dispatcher-2 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread mySystem-akka.actor.default-dispatcher-2 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread mySystem-scheduler-1 to exit[0m
